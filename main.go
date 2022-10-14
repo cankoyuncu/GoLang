@@ -3,7 +3,12 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Merhaba")
-	fmt.Println("Dünya")
-	fmt.Print("Dünya!")
+	var metin string = "Hello Turkey!"
+	fmt.Println("Merhaba Dünya")
+	fmt.Println("Merhaba Dünya")
+	fmt.Println("Merhaba Dünya")
+
+	fmt.Print("Merhaba Dünya")
+	fmt.Print("Merhaba Dünya")
+
 }
