@@ -1,14 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"golesson/variables"
+)
 
 func main() {
-	var metin string = "Hello Turkey!"
-	fmt.Println("Merhaba Dünya")
-	fmt.Println("Merhaba Dünya")
-	fmt.Println("Merhaba Dünya")
 
-	fmt.Print("Merhaba Dünya")
-	fmt.Print("Merhaba Dünya")
+	variables.Demo1()
+	fmt.Print()
 
 }
