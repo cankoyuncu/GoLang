@@ -1,8 +1,6 @@
 package main
 
-import (
-	"golesson/conditionals"
-)
+import "golesson/loops"
 
 func main() {
 
@@ -10,6 +8,8 @@ func main() {
 	//fmt.Print()
 	//conditionals.Demo1()
 	//conditionals.Demo2()
-	conditionals.Demo3()
-
+	//conditionals.Demo3()
+	// loops.Demo1()
+	// loops.Demo2()
+	loops.Demo3()
 }
