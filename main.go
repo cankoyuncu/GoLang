@@ -1,6 +1,8 @@
 package main
 
-import "golesson/login"
+import (
+	"golesson/arrays"
+)
 
 func main() {
 
@@ -15,5 +17,5 @@ func main() {
 	// loops.Demo4()
 	// loops.Demo5()
 	// arrays.Demo1()
-	login.Demo1()
+	arrays.Demo1()
 }
