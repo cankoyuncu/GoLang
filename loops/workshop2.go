@@ -1,8 +1,6 @@
 package loops
 
-import (
-	"fmt"
-)
+import "fmt"
 
 // User enter the number
 // 23: Prime

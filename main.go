@@ -1,6 +1,6 @@
 package main
 
-import "golesson/loops"
+import "golesson/login"
 
 func main() {
 
@@ -13,6 +13,7 @@ func main() {
 	// loops.Demo2()
 	// loops.Demo3()
 	// loops.Demo4()
-	loops.Demo5()
-
+	// loops.Demo5()
+	// arrays.Demo1()
+	login.Demo1()
 }
